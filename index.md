@@ -88,7 +88,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <hr>
 [General Information](#general) // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
 <hr>
-<h2 id="general">General Information</h2>
+<h2 id="general">&mdashGeneral Information</h2>
 
 {% comment %}
 INTRODUCTION
