@@ -461,8 +461,8 @@ to obtain the software and data you will need to follow the lesson.
 <ul>
   <li><b>Ben Chiewphasa</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Elizabeth Brooks</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
-  <li><b>Michael Pfrender</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a> and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Julie Vecchio</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
+  <li><b>Michael Pfrender</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a> and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Natalie Meyers</b>, <a href="https://lucyinstitute.nd.edu/" target="_blank">Lucy Institute for Data & Society</a></li>
   <li><b>Scott Hampton</b>, <a href="https://crc.nd.edu/" target="_blank">Center for Research Computing</a></li>
   <li><b>Scott Weingart</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
