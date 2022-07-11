@@ -48,7 +48,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "2021 Bioinformatics Introductory Program (BIP) for Graduate Students"
+title: "2022 Bioinformatics Introductory Program (BIP) for Graduate Students"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
