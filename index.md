@@ -79,12 +79,12 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-<!--<hr>
+<hr>
 <p class="text-center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScfNeq0zA9Hz9EaaBpDSB3HqhehRUnnjZbE5gyoobZmzROcaQ/viewform?usp=sf_link" target="_blank">
-    <button type="button" class="btn btn-info">Registration is Closed</button>
+  <a href="https://forms.gle/mpctDXYoUNqmsEpVA" target="_blank">
+    <button type="button" class="btn btn-info">Register now!</button>
   </a>
-</p>-->
+</p>
 <hr>
 [General Information](#general) // [Code of Conduct](#code-of-conduct) // [Collaborative Notes](#collaborative_notes) // [Surveys](#surveys) // [Schedule](#schedule) // [Setup](#setup) // [Organizing Team](#team)
 <hr>
