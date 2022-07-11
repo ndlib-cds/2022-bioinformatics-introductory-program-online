@@ -279,7 +279,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
-<h2 id="code-of-conduct">Code of Conduct</h2>
+<h2 id="code-of-conduct">—Code of Conduct</h2>
 
 <p>
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
@@ -308,7 +308,7 @@ Note we also have a CodiMD (the open-source version of HackMD)
 available at https://codimd.carpentries.org
 {% endcomment %}
 {% if page.collaborative_notes %}
-<h2 id="collaborative_notes">Collaborative Notes</h2>
+<h2 id="collaborative_notes">—Collaborative Notes</h2>
 
 <p>
 We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.
@@ -322,7 +322,7 @@ We will use collaborative documents for chatting, taking notes, and sharing URLs
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
-<h2 id="surveys">Surveys</h2>
+<h2 id="surveys">—Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "pilot" %}
 <ul>
@@ -365,7 +365,7 @@ further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">—Schedule</h2>
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
@@ -395,7 +395,7 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-<h2 id="setup">Setup</h2>
+<h2 id="setup">—Setup</h2>
 
 <p>
   To participate in a
@@ -457,7 +457,7 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 <hr>
-<h2 id="team">Organizing Team</h2>
+<h2 id="team">—Organizing Team</h2>
 <ul>
   <li><b>Ben Chiewphasa</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Elizabeth Brooks</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
