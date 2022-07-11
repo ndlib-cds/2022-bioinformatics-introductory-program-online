@@ -9,7 +9,7 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Aug 8-9, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 8 - 9, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 am - 05:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-08-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-08-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -418,7 +418,7 @@ please preview your site before committing, and make sure to run
 <ul>
   <li><b>Library Resources & Research Support Tools:</b> N/A</li>
   <li><b>Metadata of Genomics:</b> N/A</li>
-  <li><b>Center for Research Computing & Terminal Basics:</b> N/A (CRC accounts will be created for registrants; we will learn how to use CRC tools together with no advance setup or installation required.)</li>
+  <li><b>Center for Research Computing:</b> N/A (CRC accounts will be created for registrants; we will learn how to use CRC tools together with no advance setup or installation required.)</li>
   <li><b>R/R Studio Overview:</b> Please follow <a href="https://datacarpentry.org/r-socialsci/setup.html" target="_blank">these instructions</a> for installing or updating R/R Studio. <i>(opens in a new tab)</i>
 </li>
   <li><b>Data Wrangling for Genomics:</b> N/A (We will be downloading files/installing relevant items together as part of the sessions.)</li>
