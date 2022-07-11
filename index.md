@@ -9,14 +9,14 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Aug 9-10, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 8-9, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 am - 05:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-08-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-08-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-08-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-08-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["See schedule for details"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["See schedule for details"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["cds@nd.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: "https://pad.carpentries.org/ndlibcds-2021-bip-online" # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: "https://pad.carpentries.org/ndlibcds-2022-bip-online" # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -286,7 +286,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 
 <p class="text-center">
-  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
+  <a href="https://forms.gle/mpctDXYoUNqmsEpVA">
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
 </p>
@@ -457,15 +457,10 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 <hr>
-<h2 id="team">2021 Bioinformatics Introductory Program Organizing Team</h2>
+<h2 id="team">Organizing Team</h2>
 <ul>
-  <li><b>Amanda Charbonneau</b>, <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a></li>
   <li><b>Chissa Rivaldi</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
-  <li><b>David Molik</b>, <a href="https://www.usda.gov/" target="_blank">United States Department of Agriculture</a></li>
-  <li><b>Holly Goodson</b>, <a href="https://chemistry.nd.edu/" target="_blank">Department of Chemistry and Biochemistry</a></li>
-  <li><b>Mauna Dasari</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a></li>
   <li><b>Michael Pfrender</b>, <a href="https://biology.nd.edu/" target="_blank">Department of Biological Sciences</a> and <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
-  <li><b>Joseph Sarro</b>, <a href="https://genomics.nd.edu/" target="_blank">Genomics & Bioinformatics Core Facility</a></li>
   <li><b>Julie Vecchio</b>, <a href="https://cds.library.nd.edu/" target="_blank">Navari Family Center for Digital Scholarship</a></li>
   <li><b>Natalie Meyers</b>, <a href="https://lucyinstitute.nd.edu/" target="_blank">Lucy Institute for Data & Society</a></li>
   <li><b>Scott Hampton</b>, <a href="https://crc.nd.edu/" target="_blank">Center for Research Computing</a></li>
