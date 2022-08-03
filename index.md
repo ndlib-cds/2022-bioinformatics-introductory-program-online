@@ -416,12 +416,15 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 <ul>
+  <li><b>R/R Studio Overview:</b> Please follow <a href="https://datacarpentry.org/r-socialsci/setup.html" target="_blank">these instructions</a> for installing or updating R/R Studio. <i>(opens in a new tab)</i>
+  </li>
+  <li><b>Data Wrangling for Genomics:</b> N/A (We will be downloading files/installing relevant items together as part of the sessions.)</li>
   <li><b>Library Resources & Research Support Tools:</b> N/A</li>
+  <li><b>Introduction to the Shell:</b> N/A</li>
   <li><b>Metadata of Genomics:</b> N/A</li>
   <li><b>Center for Research Computing:</b> N/A (CRC accounts will be created for registrants; we will learn how to use CRC tools together with no advance setup or installation required.)</li>
-  <li><b>R/R Studio Overview:</b> Please follow <a href="https://datacarpentry.org/r-socialsci/setup.html" target="_blank">these instructions</a> for installing or updating R/R Studio. <i>(opens in a new tab)</i>
-</li>
-  <li><b>Data Wrangling for Genomics:</b> N/A (We will be downloading files/installing relevant items together as part of the sessions.)</li>
+  <li><b>Bioinformatics Pipelining:</b> N/A</li>
+
 </ul>
 <p>
 </p>
